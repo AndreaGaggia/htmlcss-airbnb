@@ -39,3 +39,7 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.city_box:hover .layover {
+  background-color: rgba(0, 0, 0, 0);
+}
